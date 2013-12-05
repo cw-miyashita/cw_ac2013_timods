@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: Sample Titanium module for iOS
+author: Ryutaro Miyashita
+license: MIT
+copyright: 2013 Ryutaro Miyashita
+
+
+# these should not be edited
+name: TiMods
+moduleid: com.chatwork.ac2013.timods
+guid: a2d5e33a-6e9c-4c2f-812f-259adfdd80d3
+platform: iphone
+minsdk: 3.2.0.v20131126144841
